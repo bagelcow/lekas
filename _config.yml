@@ -22,6 +22,8 @@ nav-menu:
   permalink: about
 - text: Dama Archive
   permalink: archive
+- text: Playlist Suggestion
+  permalin: playlists
 
 # use false to turn off any social media links
 twitter: false
