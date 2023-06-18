@@ -22,8 +22,8 @@ nav-menu:
   permalink: about
 - text: Dama Archive
   permalink: archive
-- text: Blog
-  permalink: blog
+# - text: Blog
+#  permalink: blog
 
 # use false to turn off any social media links
 twitter: false
