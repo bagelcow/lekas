@@ -37,7 +37,7 @@ email: false
 
 # footer information
 footer-msg: "LEKS.GG"
-footer-msg-link:
+footer-msg-link: #
 
 # google analytics
 google-analytics: false
