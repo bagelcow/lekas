@@ -11,8 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Hi, I am Leks
-author-bio: I'm 25. I love the human mind 🧠, tech stuff 💻, music ♫ and everything space 🌌. I am currently studying Psychology 𝚿. I have worked on multiple projects, from hosting game servers and discord bots
-to some web development. I am always eager to work on new things that catch my interest! If I managed to captivate yours, feel free to reach out.  # change to false to hide
+author-bio: I'm 25. I love the human mind 🧠, tech stuff 💻, music ♫ and everything space 🌌. I am currently studying Psychology 𝚿. I have worked on multiple projects, from hosting game servers and discord bots to some web development. I am always eager to work on new things that catch my interest! If I managed to captivate yours, feel free to reach out.  # change to false to hide
 author-image: coolcat.png  # file must be in the /assets/img/ folder
 
 # navigation menu
