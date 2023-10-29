@@ -33,7 +33,7 @@ github: false
 linkedin: false
 medium: false
 google-scholar: false
-email: false
+email: true
 discord: false
 
 # footer information
