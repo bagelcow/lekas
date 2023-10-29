@@ -11,7 +11,7 @@ theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Leks
-author-bio: 25 | 🇵🇹 | 𝚿  # change to false to hide
+author-bio: false  # change to false to hide
 author-image: cng.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
