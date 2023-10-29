@@ -18,12 +18,12 @@ author-image: cng.jpg  # file must be in the /assets/img/ folder
 show-nav-menu: true
 
 nav-menu:
-- text: About
-  permalink: about
+#- text: About
+#  permalink: about
 # - text: Dama Archive
 #   permalink: archive
-- text: Playlist Suggestion
-  permalink: playlists
+#- text: Playlist Suggestion
+#  permalink: playlists
 
 # use false to turn off any social media links
 twitter: false
