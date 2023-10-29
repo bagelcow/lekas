@@ -15,15 +15,15 @@ author-bio: false  # change to false to hide
 author-image: cng.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
-show-nav-menu: true
+show-nav-menu: false
 
 nav-menu:
-#- text: About
-#  permalink: about
+- text: About
+  permalink: about
 # - text: Dama Archive
 #   permalink: archive
-#- text: Playlist Suggestion
-#  permalink: playlists
+- text: Playlist Suggestion
+  permalink: playlists
 
 # use false to turn off any social media links
 twitter: false
