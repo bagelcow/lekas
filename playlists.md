@@ -31,3 +31,14 @@ permalink: playlists
 
 
 <center><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3v9WcIVv0yDCNV4db8w55B?utm_source=generator&theme=0" frameBorder="0" width="75%" height="600"></iframe></center>
+
+
+
+***
+
+
+
+### C23B22
+
+
+<center><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7cTrAbAjdKmpXxFBF8d5iA?utm_source=generator&theme=0" frameBorder="0" width="75%" height="600"></iframe></center>
